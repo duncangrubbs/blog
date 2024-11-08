@@ -1,3 +1,3 @@
-# Blog
+# Personal Blog
 
-> Person blog site
+> Personal blog built with Jekyll
